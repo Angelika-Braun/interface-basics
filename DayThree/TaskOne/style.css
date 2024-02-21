@@ -1,3 +1,28 @@
+/* färbe alle Nachfahren div Elemente blau */
+html {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 main div {
     color: blue;
+}
+
+
+.violet {
+    background-color: violet;
+    height: 1000px;
+}
+
+footer {
+    font-size: 50px;
+}
+
+a {
+    background-color: yellow;
+    
+}
+
+a:hover {
+    background-color: violet;
 }
